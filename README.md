@@ -22,12 +22,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthu-codes&show_icons=true&theme=radical)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthu-code&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 Trophies (just for fun 😄)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Parthu-codes&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Parthu-code&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
