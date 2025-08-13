@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Parth!
 
 🎓 B.Tech ECE @ USICT'29  
-🧠 Exploring the world of **DSA, Web Development, AI & ML**  
+🧠 Exploring the world of **DSA and Web3**  
 💻 Finished with HTML/CSS. Currently learning JavaScript 
 🌙 Most productive when the world sleeps (Midnight coder vibes)
 😋Doing DSA daily
@@ -10,13 +10,12 @@
 
 ## 🚀 My Tech Stack  
 **Languages:** Python | C++ | HTML | CSS | JavaScript *(learning)*  
-**Domains:** Web Dev | Web3 | DSA | Generative AI (beginner)
+**Domains:** Web3 | DSA | 
 
 ---
 
 ## 🔧 Projects I’m Building
 - `MidnightCravings.in` 🌝 — A dark, funny late-night food website  
-- `My DSA Diaries` 📚 — Daily DSA + GitHub greens  
 
 ---
 
