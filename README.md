@@ -2,7 +2,7 @@
 
 🎓 B.Tech ECE @ USICT'29 
 
-Welcome to my GitHub profile! I'm a passionate learner and builder, currently exploring the worlds of **Competitive Programming (CP)**, **Data Structures & Algorithms (DSA)**, and **Web3**. I plan to dive into **Machine Learning** in a couple of years—so stay tuned for that journey!
+Welcome to my GitHub profile! I'm a passionate learner and builder, currently exploring the worlds of **Competitive Programming (CP)**, **Data Structures & Algorithms (DSA)**, and **Web dev**. I plan to dive into **Machine Learning** in a couple of years—so stay tuned for that journey!
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate learner and builder, currently ex
 
 - **Languages:** Python, C++, C, HTML, CSS, JavaScript
 - **Databases:** MySQL
-- **Currently Learning:** Web3, advanced DSA, and more!
+- **Currently Learning:** CP,  DSA, and more!
 
 ---
 
