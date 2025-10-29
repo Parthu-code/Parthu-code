@@ -1,18 +1,54 @@
-# 👋 Hey there, I'm Parth!
+<!--
+    Parth's GitHub Profile
+    Clean • Minimal • Professional
+    (Best viewed in dark mode)
+-->
 
-🎓 B.Tech ECE @ USICT'29 
+# Parth | B.Tech ECE @ USICT (2029)
 
-Welcome to my GitHub profile! I'm a passionate learner and builder, currently exploring the worlds of **Competitive Programming (CP)**, **Data Structures & Algorithms (DSA)**, and **Web dev**. I plan to dive into **Machine Learning** in a couple of years—so stay tuned for that journey!
+---
+
+## 👋 About Me
+
+- Electronics & Communication Engineering undergraduate (USICT, Batch of 2029)
+- Passionate about technology, innovation, and continuous learning
 
 ---
 
-## 🚀 My Tech Stack & Learning Path
+## 💻 Interests & Focus Areas
 
-- **Languages:** Python, C++, C, HTML, CSS, JavaScript
-- **Databases:** MySQL
-- **Currently Learning:** CP,  DSA, and more!
+- Competitive Programming (CP)
+- Machine Learning (ML) & Deep Learning (DL)
+- Generative AI & Large Language Models (LLMs)
 
 ---
+
+## 🧠 Skills & Technologies
+
+| Languages   | Frameworks & Libraries      | Tools           |
+|-------------|----------------------------|-----------------|
+| C++         | TensorFlow, PyTorch        | Git, Linux      |
+| Python      | scikit-learn, Pandas       | VS Code, Jupyter|
+| c           | NumPy,                     | LeetCode        |
+
+---
+
+## 🚀 Current Learning Goals
+
+- Excelling in CP contests and problem-solving
+- Advancing practical skills in ML & DL
+- Exploring Generative AI and LLM architectures
+
+---
+
+## 📊 GitHub Stats
+
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthu-code&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthu-code&layout=compact&theme=dark)
+
+---
+
+
 
 ## 🌟 Featured Projects
 
