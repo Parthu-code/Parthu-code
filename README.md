@@ -66,7 +66,7 @@
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/parth-saha)
-- [Twitter (@HustleWithParth)](https://x.com/HustleWithParth)
+- [Twitter (@HustleWithParth)](https://x.com/CoderHashira)
 
 ---
 
